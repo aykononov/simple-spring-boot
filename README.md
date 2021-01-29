@@ -1,4 +1,4 @@
-## Simple Spring Boot.
+## Simple Spring Boot
 
 Простое приложение на Spring Boot с минимальной конфигурацией. 
 
