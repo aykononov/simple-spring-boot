@@ -20,9 +20,9 @@
     =========|_|==============|___/=/_/_/_/
     :: Spring Boot ::                (v2.4.2)
     
-    2021-01-29 22:54:04.830  INFO 7256 --- [           main] com.simple.SimpleApplication             : Starting SimpleApplication using Java 11.0.9.1 on DELL5280 with PID 7256
-    2021-01-29 22:54:04.836  INFO 7256 --- [           main] com.simple.SimpleApplication             : No active profile set, falling back to default profiles: default
-    2021-01-29 22:54:06.199  INFO 7256 --- [           main] com.simple.SimpleApplication             : Started SimpleApplication in 2.546 seconds (JVM running for 4.006)
+    2021-01-29 22:54:04.830  INFO 7256 --- [main] com.simple.SimpleApplication : Starting SimpleApplication using Java 11.0.9.1 on DELL5280 with PID 7256
+    2021-01-29 22:54:04.836  INFO 7256 --- [main] com.simple.SimpleApplication : No active profile set, falling back to default profiles: default
+    2021-01-29 22:54:06.199  INFO 7256 --- [main] com.simple.SimpleApplication : Started SimpleApplication in 2.546 seconds (JVM running for 4.006)
     
     Process finished with exit code 0
 ```
